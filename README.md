@@ -77,6 +77,7 @@ Next steps: The current model can be enhanced with additional risk factors. Foll
  ## Conclusion
  We can conclude that heart disease is predictable by AI. The accuracy of the models is fairly high and is proved to be quite consistent and efficient.
 
+Do look into my research paper at: https://docs.google.com/document/d/1OdKvWvMVffzgKq9OgW19C4OqRku8r3ziwiMIgFvjLUc/edit?usp=sharing
 
 
 
